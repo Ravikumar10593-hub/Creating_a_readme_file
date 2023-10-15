@@ -2,7 +2,7 @@
 ## Header
 
 ### Add a image
-![Alt text](image.png)
+![Alt text](https://w7.pngwing.com/pngs/242/947/png-transparent-tensor-trucks-skateboarding-dwindle-distribution-increase-emblem-text-trademark-thumbnail.png)
 
 ### Add a gif
 ![](https://media.tenor.com/8O0arVsFcp4AAAAd/yeah-yes.gif)
